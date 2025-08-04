@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ritik kumar
+# 💫 Hi 👋, I'm Ritik Kumar
 **A passionate Full-Stack Developer || DevOps Engineer || Data Analysist **
 
 Email Me 👉 ✉️ **ritikk6990@gmail.com** For Collaboration/Project or Anything Else. 😊😊
