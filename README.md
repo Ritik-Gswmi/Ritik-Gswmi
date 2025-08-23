@@ -31,6 +31,14 @@ Email Me 👉 ✉️ **ritikk6990@gmail.com** For Collaboration/Project or Anyth
 ![](https://nirzak-streak-stats.vercel.app/?user=Ritik-Gswmi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-Gswmi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## Skill Badges 
+---
+
+<img height =130px src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/><img height =130px src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+<img height =130px src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/0f955028-4823-40e6-a22e-8bf0bdfa07e9.png"/>
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ritik-Gswmi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
