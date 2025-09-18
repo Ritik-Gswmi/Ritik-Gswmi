@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **ritikk6990@gmail.com** For Collaboration/Project or Anyth
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/ritik-k-251509296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritik.kumar.cd23@ggits.net) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ritik-gswmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritik.kumar.cd23@ggits.net) 
 
 
 <!-- Snake Game Repo View -->
