@@ -36,7 +36,7 @@ Email Me 👉 ✉️ **ritikk6990@gmail.com** For Collaboration/Project or Anyth
 
 <img height=130px alt="17561378099433703770032374790617" src="https://github.com/user-attachments/assets/6b7ebc01-6c3a-4b01-a99e-b9e0ee51c675" />&nbsp;
 <img height =130px src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/>&nbsp;<img height =130px src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
-<img height =130px src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/0f955028-4823-40e6-a22e-8bf0bdfa07e9.png"/>&nbsp;<img height=130px alt="17561370383151401346488555294350" src="https://github.com/user-attachments/assets/b3cf3780-3cf2-4729-a057-f78b849041e9" />
+<img height =130px src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/0f955028-4823-40e6-a22e-8bf0bdfa07e9.png"/>&nbsp;<img height=130px alt="17561370383151401346488555294350" src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
 
 
 ---
