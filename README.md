@@ -10,8 +10,8 @@ I build modern **web, mobile, and backend applications** with a focus on clean a
 
 ## 👨‍💻 About Me
 
-- ⚙️ Building full-stack applications using **React, Next.js, Node.js, NestJS, and FastAPI**
-- 🗄 Designing and working with databases like **MongoDB, PostgreSQL, Redis, and MySQL**
+- ⚙️ Building full-stack applications using **React, Next.js, Node.js, Express.js, and NestJS**
+- 🗄 Designing and working with databases like **MongoDB, PostgreSQL, and Redis**
 - ☁️ Deploying and managing applications using **Docker, Kubernetes, and AWS**
 - 📱 Interested in both **web and mobile development** including **React Native**
 - 🚀 Always learning new technologies and improving system design skills
