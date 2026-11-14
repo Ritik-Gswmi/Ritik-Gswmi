@@ -91,10 +91,10 @@ I build modern **web, mobile, and backend applications** with a focus on clean a
 
 <div align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=Ritik-Gswmi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+![](https://shady-github-readme.vercel.app/api?username=Ritik-Gswmi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 ![](https://streak-stats.demolab.com?user=Ritik-Gswmi&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-Gswmi&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://shady-github-readme.vercel.app/api/top-langs/?username=Ritik-Gswmi&layout=compact&theme=dark&langs_count=8)
 
 </div>
